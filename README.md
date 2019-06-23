@@ -8,4 +8,4 @@ Based on the tutorial at: https://towardsdatascience.com/kaggle-titanic-machine-
 * Final Notebook = Feature_Engineering.ipynb
 * Predictions (for Kaggle) = titanic_fastai2.csv
 
-I was using Google Colaboratory as my Jupyter notebook environment.
+I was using **Google Colaboratory** as my Jupyter notebook environment.
